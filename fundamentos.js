@@ -1,4 +1,4 @@
-//*var numero = 20;
+var numero = 20;
 
 console.log(numero + " e sou dev back end")
 
@@ -62,10 +62,7 @@ for(let i = 0; i < 5; i = i++){
     console.log("O valor de i é: " + i)
 }
 
-let i = 0
-while(i < 5){
-    i++
-}
+
 
 
 
