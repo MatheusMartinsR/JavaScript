@@ -1,5 +1,3 @@
-const objeto = {nome: "Matheus", idade: 20}
-
-const jsonString = JSON.stringify(objeto)
+const obj = {nome: "Matheus", idade: 20}
+const jsonString = JSON.stringify(obj)
 console.log(jsonString)
-console.log(typeof jsonString)
