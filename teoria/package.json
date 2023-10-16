@@ -1,8 +1,8 @@
 {
   "name": "javascript",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Códigos utilizados em JS para estudos e projetos",
+  "main": "fundamentos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
